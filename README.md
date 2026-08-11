@@ -10,7 +10,7 @@ A modern, fully responsive landing page for a fictional project management SaaS 
 - Built with pure HTML + Tailwind CSS (CDN) + vanilla JavaScript
 
 ## Demo
-[Live Demo](https://shadiisthesameasfelicity-max.github.io/landing_page)
+[Live Demo](https://shadiisthesameasfelicity-max.github.io/Landing_Page)
 
 ## Technologies
 - HTML5
